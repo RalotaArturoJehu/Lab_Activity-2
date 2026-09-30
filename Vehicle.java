@@ -2,7 +2,7 @@ public class Vehicle {
     String brand;
     String model;
     int year;
-
+    
     void displayInfo() {
         System.out.println("Brand: " + brand + ", Model: " + model + ", Year: " + year);
     }
